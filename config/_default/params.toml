@@ -55,3 +55,9 @@ SortBy              = "default"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
     # Copy the configurations you need from there and paste it here.
+
+[assets]
+  [assets.katex]
+    css = "https://cdn.bootcdn.net/ajax/libs/KaTeX/0.16.9/katex.min.css"
+    js = "https://cdn.bootcdn.net/ajax/libs/KaTeX/0.16.9/katex.min.js"
+    autoRender = "https://cdn.bootcdn.net/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"
