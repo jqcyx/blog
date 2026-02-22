@@ -31,10 +31,10 @@ $1+1=2$
 
 $$\sum_{i=1}^{n} i^2$$
 
-![](https://cdn.jsdmirror.cn/gh/jqcyx/static_data@main/72pl92nx.webp)
+![](72pl92nx.webp)
 
-[这是一个mp3链接](https://cdn.jsdmirror.cn/gh/jqcyx/static_data@main/14%E7%89%88.mp3)
+[这是一个mp3链接](14%E7%89%88.mp3)
 
-[这是一个文件链接](https://cdn.jsdmirror.cn/gh/jqcyx/static_data@main/1.cpp)
+[这是一个文件链接](1.cpp)
 
-[这是一个字体链接](https://cdn.jsdmirror.cn/gh/jqcyx/static_data@main/norwester.otf)
+[这是一个字体链接](norwester.otf)
