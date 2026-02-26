@@ -98,7 +98,7 @@ since 填建站的年份，
     subtitle = "已完成今日我对着铁质的机箱踢了五下然后把那堆代码在内存中删了一下然后把椅子砸在了地板上大学习"
     avatar   = "img/avatar.png"
 ```
-emoji 是显示在邮箱旁边的，  
+emoji 是显示在头像旁边的，  
 subtitle 是你的个性签名，  
 avatar 是头像，放在 /assets/img 里。
 
