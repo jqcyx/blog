@@ -27,7 +27,7 @@ draft: false
 
 登录到 Cloudflare。
 
-![](Cloudflare界面.jpg)
+![](Cloudflare界面.png)
 
 选择侧边栏的 联网 > Tunnels。
 
