@@ -89,7 +89,7 @@ ssh -p 222 你的用户名@localhost
 
 这是个啥东东？
 
-你可以打开 [Cloudflare Quick Tunnels](https://tyrcloudflare.com) 查看。简而言之就是你可以用
+你可以打开 [Cloudflare Quick Tunnels](https://trycloudflare.com) 查看。简而言之就是你可以用
 
 ```
 cloudflared tunnel --url 你的本机连接
